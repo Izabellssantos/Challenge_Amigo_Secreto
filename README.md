@@ -13,6 +13,10 @@
     <li>Para realizar o sorteio, clique no botão "Sortear amigo".</li>
     <li>O nome sorteado será exibido na tela.</li>
 </ol>
+<video width="640" height="360" controls>
+    <source src="media/Video_250216232254.mp4" type="video/mp4">
+    Seu navegador não suporta o elemento <code>video</code>.
+</video>
 
 <h2>Funcionalidades</h2>
 <ul>
