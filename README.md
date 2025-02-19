@@ -13,10 +13,10 @@
     <li>Para realizar o sorteio, clique no botão "Sortear amigo".</li>
     <li>O nome sorteado será exibido na tela.</li>
 </ol>
-<video width="640" height="360" controls>
-    <source src="media/Video_250216232254.mp4" type="video/mp4">
-    Seu navegador não suporta o elemento <code>video</code>.
-</video>
+
+
+https://github.com/user-attachments/assets/8b348199-d5e3-4782-9aca-de1ef4d9dd3e
+
 
 <h2>Funcionalidades</h2>
 <ul>
@@ -45,6 +45,5 @@
 <h2>Melhorias Futuras</h2>
 <ul>
     <li>Adicionar opção para remover nomes da lista.</li>
-    <li>Implementar um banco de dados para persistência de dados.</li>
     <li>Melhorar o design da interface gráfica.</li>
 </ul>
