@@ -1,10 +1,14 @@
-<h1>🔍Amigo Secreto🧐 </h1>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1136739e-c175-4ecd-8516-224b35065b76" alt="amigo-secreto" width="350">
+</p>
+<h1>🎰Amigo Secreto!</h1>
 
-<h2> Descrição</h2>
+
+<h2>🧩 Descrição</h2>
 
 <p> Você está pronto para entrar na brincadeira e descobrir quem será seu amigo secreto❔ Neste desafio, você pode reunir seus amigos, adicionar seus nomes a uma lista e sortear aleatoriamente seu amigo secreto! Simples, rápido e perfeito para animar qualquer encontro!</p>
 
-<h2> Como jogar? </h2>
+<h2> 📌Instruções </h2>
   
 https://github.com/user-attachments/assets/8b348199-d5e3-4782-9aca-de1ef4d9dd3e
 
@@ -36,7 +40,7 @@ https://github.com/user-attachments/assets/8b348199-d5e3-4782-9aca-de1ef4d9dd3e
 
 </ul>
 
-<h2> Estrutura do Código</h2>
+<h2>⚙ Estrutura do Código</h2>
 <ul>
     <li><code>let amigos = []</code>: Array para armazenar os nomes inseridos.</li>
     <li><code>adicionarAmigo()</code>: Captura o valor do campo, valida, adiciona ao array e atualiza a lista exibida.</li>
@@ -45,13 +49,13 @@ https://github.com/user-attachments/assets/8b348199-d5e3-4782-9aca-de1ef4d9dd3e
  
 </ul>
 
-<h2>Melhorias Futuras</h2>
+<h2>🛠 Melhorias Futuras</h2>
 <ul>
-    <li>Adicionar opção para remover nomes da lista.</li>
-    <li>Melhorar o design da interface gráfica.</li>
+    <li> Adicionar opção para remover nomes da lista.</li>
+    <li> Melhorar o design da interface gráfica.</li>
 </ul>
 
-  <h2> Autora </h2>
+  <h2> 👩🏽‍💻Autora </h2>
 <img src="https://github.com/user-attachments/assets/bdf66124-8680-4578-b361-027482547c2d" alt="Foto da autora" width="100">
     <p>Izabel Santos</p>
 
