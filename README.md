@@ -58,4 +58,5 @@ https://github.com/user-attachments/assets/8b348199-d5e3-4782-9aca-de1ef4d9dd3e
   <h2> 👩🏽‍💻Autora </h2>
 <img src="https://github.com/user-attachments/assets/bdf66124-8680-4578-b361-027482547c2d" alt="Foto da autora" width="100">
     <p>Izabel Santos</p>
+    <p align="center"> <a href="https://challengeamigosecreto-beryl.vercel.app/"> <img src="https://img.shields.io/badge/Acesse%20o%20Projeto-Online-blue?style=for-the-badge" alt="Projeto Online"> </a> </p>
 
